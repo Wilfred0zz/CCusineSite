@@ -1,0 +1,8 @@
+.MainPage{
+position: relative;
+margin-top: auto;
+height: 10;
+width: 50;
+ background-image: url(./ccbackground.png);
+    
+}
